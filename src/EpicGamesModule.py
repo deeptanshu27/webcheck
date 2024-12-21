@@ -1,7 +1,6 @@
 from selenium.webdriver.common.by import By
 from winotify import Notification
 from Module import Module
-from Manager import Manager
 import os
 
 class EpicGamesModule(Module):
